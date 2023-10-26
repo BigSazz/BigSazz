@@ -7,21 +7,22 @@
 <p align="left"> <a href="https://twitter.com/iamsazzy" target="blank"><img src="https://img.shields.io/twitter/follow/iamsazzy?logo=twitter&style=for-the-badge" alt="iamsazzy" /></a> </p>
 
 
-
-- 🌱 I’m currently learning **Vue, React Native**
-
-- 💬 Ask me about **React, Next Js, TailwindCSS, Apollo GraphQL**
-
-- 📫 How to reach me **osaze.o.oviawe@gmail.com**
-
-
   
 <h3 align="left">💻 personal projects:</h3>
 
-- NoteWave - [https://notewave-app-beige.vercel.app/](https://notewave-app-beige.vercel.app/)
-- ChitChat - [https://threads-webapp.vercel.app/](https://threads-webapp.vercel.app/)
+- NoteWave (NextJS 13, Typescript, Tailwind) - [https://notewave-app-beige.vercel.app/](https://notewave-app-beige.vercel.app/)
+- ChitChat (NextJS 13, Typescript, Tailwind) - [https://threads-webapp.vercel.app/](https://threads-webapp.vercel.app/)
 
 
+
+🌱 I’m currently learning **Vue, React Native**
+
+ 💬 Ask me about **React, Next Js, TailwindCSS, Apollo GraphQL**
+
+ 📫 How to reach me **osaze.o.oviawe@gmail.com**
+
+
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
